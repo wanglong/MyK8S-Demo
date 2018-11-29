@@ -1,0 +1,14 @@
+d:\AspNetCoreTest\k8s-demo\k8s-demo\bin\Debug\netcoreapp2.1\k8s-demo.deps.json
+d:\AspNetCoreTest\k8s-demo\k8s-demo\bin\Debug\netcoreapp2.1\k8s-demo.runtimeconfig.json
+d:\AspNetCoreTest\k8s-demo\k8s-demo\bin\Debug\netcoreapp2.1\k8s-demo.runtimeconfig.dev.json
+d:\AspNetCoreTest\k8s-demo\k8s-demo\bin\Debug\netcoreapp2.1\k8s-demo.dll
+d:\AspNetCoreTest\k8s-demo\k8s-demo\bin\Debug\netcoreapp2.1\k8s-demo.pdb
+d:\AspNetCoreTest\k8s-demo\k8s-demo\obj\Debug\netcoreapp2.1\k8s-demo.csprojAssemblyReference.cache
+d:\AspNetCoreTest\k8s-demo\k8s-demo\obj\Debug\netcoreapp2.1\k8s-demo.csproj.CoreCompileInputs.cache
+d:\AspNetCoreTest\k8s-demo\k8s-demo\obj\Debug\netcoreapp2.1\k8s-demo.RazorAssemblyInfo.cache
+d:\AspNetCoreTest\k8s-demo\k8s-demo\obj\Debug\netcoreapp2.1\k8s-demo.RazorAssemblyInfo.cs
+d:\AspNetCoreTest\k8s-demo\k8s-demo\obj\Debug\netcoreapp2.1\k8s-demo.AssemblyInfoInputs.cache
+d:\AspNetCoreTest\k8s-demo\k8s-demo\obj\Debug\netcoreapp2.1\k8s-demo.AssemblyInfo.cs
+d:\AspNetCoreTest\k8s-demo\k8s-demo\obj\Debug\netcoreapp2.1\k8s-demo.RazorTargetAssemblyInfo.cache
+d:\AspNetCoreTest\k8s-demo\k8s-demo\obj\Debug\netcoreapp2.1\k8s-demo.dll
+d:\AspNetCoreTest\k8s-demo\k8s-demo\obj\Debug\netcoreapp2.1\k8s-demo.pdb
